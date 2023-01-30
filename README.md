@@ -8,7 +8,7 @@
 	Open the terminal
 	Go to the go-grpc-time-svc directory
 	Run the below command
-		go run consumer.go
+		go run main.go
 		
 # To call the CurrTime Api
 	Hit the below curl command
