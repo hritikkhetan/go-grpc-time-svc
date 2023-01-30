@@ -1,6 +1,6 @@
 package config
 
-import "github.com/spf13/viper@v1.15.0"
+import "github.com/spf13/viper"
 
 type Config struct {
 	Port string `mapstructure:"PORT"`
